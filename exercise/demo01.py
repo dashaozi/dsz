@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+__author__ = 'shaoyn'
+__date__ = '2020/8/2 21:11'
+
 """
 一个回合制游戏，每个角色都有hp 和power，
 hp代表血量，power代表攻击力，hp的初始值为1000，
