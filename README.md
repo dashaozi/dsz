@@ -9,9 +9,16 @@ exercise目录下demo03
 ###8.2课后作业
 
 ###8.5课后作业
-pythoncode目录下的calc.py
+pythoncode/calc.py
 testing/dates/calc.yml
-testing/dates/demo.py
+testing/test_demo3.py
+###8.7课后作业
+pythoncode/calc.py
+testing/dates/calc.yml
+testing/test_fixture.py
+testing/pytest.ini
+testing/conftest.py
+
 
 
 
